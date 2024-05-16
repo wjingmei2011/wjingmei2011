@@ -1,6 +1,6 @@
 - 👋 Hi, I’m May
 - 👀 I’m interested in anything related to problem solving
-- 🌱 I’m currently learning CS50x
+- 🌱 I’m currently learning coding and how computers work 
 - 💞️ I’m looking to collaborate on anything cool
 - 📫 How to reach me on linkedin (https://www.linkedin.com/in/may-wang-3b400620/)
 <!---
